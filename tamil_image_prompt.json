@@ -1,0 +1,80 @@
+
+{
+  "framework": "SCALE",
+  "image_prompt": {
+    "S_subject": {
+      "main_subject": "Authentic Tamil Chettinadu culture during the Margazhi month early morning",
+      "people": [
+        "Tamil women wearing traditional Kanchipuram silk sarees",
+        "An elderly woman drawing an intricate white rice flour kolam",
+        "A young woman carrying a traditional brass kuthu vilakku",
+        "A man wearing traditional white veshti and angavastram"
+      ],
+      "cultural_elements": [
+        "Traditional Chettinadu ancestral mansion",
+        "Athangudi patterned floor tiles",
+        "Carved teak wooden pillars and antique wooden doors",
+        "Brass lamps and traditional vessels",
+        "Fresh jasmine flowers and mango leaf decorations"
+      ]
+    },
+    "C_composition": {
+      "camera_view": "close-up cinematic street-level composition",
+      "foreground": "Beautifully detailed Margazhi kolam with colorful flower decorations in front of the house",
+      "midground": "Tamil women creating kolam and lighting brass oil lamps in the middle of the kolam",
+      "background": "Grand Chettinadu heritage mansion with a traditional courtyard and wooden architecture",
+      "visual_balance": "Natural storytelling composition with rich cultural details"
+    },
+    "A_atmosphere": {
+      "season": "Tamil Margazhi month, December to January",
+      "time": "Early morning around 4:30 AM",
+      "weather": "Cool winter morning with gentle mist and fog",
+      "mood": "Peaceful, spiritual, traditional, nostalgic and festive",
+      "details": [
+        "Fresh dew drops on plants",
+        "Soft temple bells in the distance",
+        "Incense smoke drifting gently",
+        "Subtle devotional atmosphere",
+        "Early morning village life"
+      ]
+    },
+    "L_lighting": {
+      "natural_light": "Soft golden sunrise filtering through the mist",
+      "ambient_light": "Cool blue morning ambience",
+      "highlights": "Warm glow from traditional brass oil lamps",
+      "shadows": "Soft realistic natural shadows",
+      "color_palette": [
+        "Traditional terracotta",
+        "Warm golden yellow",
+        "Deep maroon",
+        "Leaf green",
+        "Natural ivory",
+        "Soft sunrise orange"
+      ]
+    },
+    "E_execution": {
+      "style": "Ultra photorealistic cinematic photography",
+      "quality": "8K ultra high resolution",
+      "camera": "Professional full-frame DSLR, 35mm lens",
+      "details": "Highly detailed architecture, realistic skin textures, authentic silk saree fabric, intricate kolam patterns",
+      "depth_of_field": "Natural cinematic depth of field",
+      "aspect_ratio": "16:9",
+      "rendering": "Professional editorial photography with authentic South Indian cultural aesthetics"
+    }
+  },
+  "negative_prompt": [
+    "Modern buildings",
+    "Western clothing",
+    "Contemporary vehicles",
+    "Plastic decorations",
+    "Artificial-looking faces",
+    "Cartoon style",
+    "Fantasy architecture",
+    "Over-saturated colors",
+    "Distorted hands",
+    "Extra fingers",
+    "Blurry details",
+    "Watermarks",
+    "Text and logos"
+  ]
+}
