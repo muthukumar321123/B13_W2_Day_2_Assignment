@@ -1,0 +1,146 @@
+
+{
+  "framework": "SCALE",
+  "video_prompt": {
+    "S_subject": {
+      "main_subject": "Traditional Tamil Chettinadu village life during the sacred Margazhi month early morning",
+      "characters": [
+        {
+          "character": "Tamil elderly woman",
+          "appearance": "Traditional cotton saree, grey hair tied in a bun, wearing flowers",
+          "action": "Gracefully drawing an intricate kolam using rice flour at the entrance of her ancestral home"
+        },
+        {
+          "character": "Young Tamil woman",
+          "appearance": "Beautiful traditional Kanchipuram silk saree, jasmine flowers in braided hair, traditional jewellery",
+          "action": "Lighting a brass kuthu vilakku and arranging fresh flowers"
+        },
+        {
+          "character": "Tamil man",
+          "appearance": "Traditional white veshti and angavastram",
+          "action": "Walking peacefully through the courtyard carrying a brass vessel"
+        }
+      ],
+      "environment": [
+        "Grand traditional Chettinadu ancestral mansion",
+        "Intricate carved teak wooden pillars",
+        "Beautiful Athangudi patterned floor tiles",
+        "Traditional brass lamps and antique vessels",
+        "Fresh mango leaf decorations",
+        "Traditional Tamil courtyard"
+      ]
+    },
+    "C_composition": {
+      "shot_1": {
+        "duration": "0-4 seconds",
+        "camera": "Wide aerial establishing shot slowly descending",
+        "visual": "A beautiful Chettinadu village at dawn, traditional mansions surrounded by gentle morning mist",
+        "action": "Birds flying across the sky and coconut tree leaves gently moving"
+      },
+      "shot_2": {
+        "duration": "4-8 seconds",
+        "camera": "Slow cinematic tracking shot towards a traditional mansion entrance",
+        "visual": "An elderly Tamil woman drawing an elaborate white kolam",
+        "action": "Her fingers gracefully release rice flour, creating detailed symmetrical patterns"
+      },
+      "shot_3": {
+        "duration": "8-12 seconds",
+        "camera": "Medium close-up with gentle camera movement",
+        "visual": "A young woman in a traditional silk saree lighting a brass oil lamp",
+        "action": "The flame flickers naturally as she gently adjusts the wick"
+      },
+      "shot_4": {
+        "duration": "12-16 seconds",
+        "camera": "Slow cinematic dolly movement through the courtyard",
+        "visual": "Traditional Chettinadu architecture, Athangudi tiles, wooden pillars and brass vessels",
+        "action": "Soft morning sunlight gradually illuminates the courtyard"
+      },
+      "shot_5": {
+        "duration": "16-20 seconds",
+        "camera": "Wide cinematic closing shot",
+        "visual": "The completed kolam, glowing brass lamps and women in colourful traditional sarees",
+        "action": "A peaceful Margazhi morning unfolds in the Chettinadu home"
+      }
+    },
+    "A_atmosphere": {
+      "season": "Margazhi month, December-January",
+      "time": "5:30 AM to 6:00 AM",
+      "weather": "Cool winter morning with gentle mist",
+      "mood": "Devotional, peaceful, nostalgic, graceful and culturally rich",
+      "environmental_motion": [
+        "Gentle movement of coconut tree leaves",
+        "Birds flying naturally",
+        "Soft incense smoke drifting",
+        "Oil lamp flames flickering",
+        "Morning mist slowly dispersing",
+        "Dew drops sparkling on plants"
+      ]
+    },
+    "L_lighting": {
+      "lighting_style": "Natural cinematic dawn lighting",
+      "sky": "Soft blue morning sky transitioning into golden sunrise",
+      "key_light": "Warm sunlight entering through traditional wooden pillars",
+      "practical_lighting": "Golden glow from brass oil lamps",
+      "shadows": "Soft realistic shadows",
+      "color_palette": [
+        "Warm golden yellow",
+        "Terracotta brown",
+        "Deep maroon",
+        "Traditional green",
+        "Natural ivory",
+        "Soft sunrise orange"
+      ]
+    },
+    "E_execution": {
+      "visual_style": "Ultra-realistic cinematic documentary filmmaking",
+      "resolution": "4K",
+      "aspect_ratio": "16:9",
+      "frame_rate": "24fps",
+      "duration": "20 seconds",
+      "camera_quality": "Professional cinema camera",
+      "lens": "35mm cinematic lens with selected 50mm close-up shots",
+      "camera_motion": "Smooth gimbal movements, slow dolly, aerial establishing shot and gentle tracking",
+      "depth_of_field": "Natural cinematic depth of field",
+      "motion_quality": "Realistic human movements and natural environmental motion",
+      "continuity": "Maintain consistent character appearance, saree colours, architecture and lighting throughout all shots",
+      "rendering": "High-detail photorealistic cinematic video"
+    }
+  },
+  "audio_design": {
+    "background_music": "Soft traditional South Indian devotional instrumental music",
+    "instruments": [
+      "Veena",
+      "Flute",
+      "Gentle temple bells",
+      "Soft tanpura"
+    ],
+    "ambient_sounds": [
+      "Early morning birds chirping",
+      "Gentle breeze",
+      "Distant temple bells",
+      "Soft footsteps on traditional tiled flooring"
+    ],
+    "voiceover": "Optional gentle Tamil female narration",
+    "mixing": "Peaceful, natural and immersive audio"
+  },
+  "negative_prompt": [
+    "Modern buildings",
+    "Western clothing",
+    "Modern vehicles",
+    "Unnatural human movement",
+    "Distorted faces",
+    "Extra fingers",
+    "Deformed hands",
+    "Flickering architecture",
+    "Changing character appearance",
+    "Artificial-looking sarees",
+    "Cartoon animation",
+    "Fantasy elements",
+    "Excessive camera shake",
+    "Fast transitions",
+    "Unnatural lighting",
+    "Text artifacts",
+    "Watermarks",
+    "Logos"
+  ]
+}
